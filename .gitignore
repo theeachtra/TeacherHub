@@ -1,1 +1,4 @@
 node_modules
+/node_modules
+./node_modules
+MONGODB_URI: mongodb://heroku_p1wc7c8g:tcm8uhk0fn4pid3p7av8arh4o4@ds343895.mlab.com:43895/heroku_p1wc7c8g

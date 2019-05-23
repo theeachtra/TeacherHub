@@ -1,0 +1,29 @@
+#formHolder {
+  width: 1000px;
+}
+
+.form-label {
+  color: white;
+}
+
+@media (max-width: 640px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .nav-links {
+    justify-content: center;
+  }
+
+  .main-section {
+    margin: 40px;
+  }
+
+  .portfolio {
+    flex-direction: column;
+  }
+}
+
+.message-container {
+  margin-left: 450px;
+}

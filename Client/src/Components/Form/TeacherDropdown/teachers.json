@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. Feeney",
+    "subject": "Math",
+    "email": "teacherhub123@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Mrs. Jenkins",
+    "subject": "Science"
+  },
+  {
+    "id": 3,
+    "name": "Mr. Scott",
+    "subject": "English"
+  },
+  {
+    "id": 4,
+    "name": "Mr. Taylor",
+    "subject": "Math"
+  },
+  {
+    "id": 5,
+    "name": "Msr. Williams",
+    "subject": "History"
+  },
+  {
+    "id": 6,
+    "name": "Mr. Harris",
+    "subject": "Science"
+  },
+  {
+    "id": 7,
+    "name": "Mrs. Jennings",
+    "subject": "Math"
+  },
+  {
+    "id": 8,
+    "name": "Mrs. Smith",
+    "subject": "Computer Science"
+  },
+  {
+    "id": 9,
+    "name": "Mrs. Turner",
+    "subject": "Statistics"
+  },
+  {
+    "id": 10,
+    "name": "Mrs. Lopez",
+    "subject": "Latin"
+  },
+  { "id": 11, "name": "Mr. Straily", "subject": "Social Studies" },
+  {
+    "id": 12,
+    "name": "Mrs. Posey",
+    "subject": "English"
+  }
+]

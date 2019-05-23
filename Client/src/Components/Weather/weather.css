@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand:400,500,700");
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Quicksand", Arial, Helvetica, serif;
+  font-weight: 400;
+}
+
+#weather {
+  width: 20%;
+  height: 50%;
+  text-align: center;
+  color: #142b58;
+  margin: auto;
+  background: url("https://www.federallabs.org/sites/default/files/field/image/1FLcfl2052.jpg");
+  box-shadow: 0 5px 0 0 #475e8b;
+  left: 746px;
+}
+
+.wi {
+  font-size: 50pt;
+  font-weight: 400;
+}
+.location {
+  width: 100%;
+  margin: 0 auto;
+}
+
+button {
+  width: 100%;
+  margin: 0;
+  padding: 1em 2em;
+  border: 0;
+  color: #fff;
+  background: #142b58;
+  font-size: 14px;
+  outline: none;
+}
+
+@media (max-width: 640px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+  .nav-links {
+    justify-content: center;
+  }
+
+  .main-section {
+    margin: 40px;
+  }
+
+  .portfolio {
+    flex-direction: column;
+  }
+}

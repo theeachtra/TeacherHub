@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.4;
+}
+
+a {
+  border-bottom: 2px solid white;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 2px solid #007bff;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
