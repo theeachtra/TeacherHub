@@ -5,13 +5,13 @@
     "main.js.map": "static/js/main.05038d66.chunk.js.map",
     "runtime~main.js": "static/js/runtime~main.f93d2e1a.js",
     "runtime~main.js.map": "static/js/runtime~main.f93d2e1a.js.map",
-    "2.04ceeaf4.chunk.js": "static/js/2.04ceeaf4.chunk.js",
-    "2.04ceeaf4.chunk.js.map": "static/js/2.04ceeaf4.chunk.js.map",
-    "index.html": "../public/index.html",
+    "chunk.js": "static/js/2.04ceeaf4.chunk.js",
+    "chunk.js.map": "static/js/2.04ceeaf4.chunk.js.map",
+    "index.html": "../build/index.html",
 
     "precache-manifest.9b60c31b8d0dd5f9b46946b15d82fe79.js": "precache-manifest.9b60c31b8d0dd5f9b46946b15d82fe79.js",
     "service-worker.js": "service-worker.js",
-    "main.eee2c963.chunk.css.map": "static/css/main.eee2c963.chunk.css.map",
+    "chunk.css.map": "static/css/main.eee2c963.chunk.css.map",
     "react.svg": "static/media/react.c10c6d6d.svg"
   }
 }
