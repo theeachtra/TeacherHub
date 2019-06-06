@@ -1,7 +1,7 @@
 {
   "name": "reactmongo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Group - Project App for Instructor to show student work and offer fast information to everyone.",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
@@ -10,7 +10,7 @@
     "client": "cd Client && npm run start",
     "install": "cd Client && npm install",
     "build": "cd Client && npm run build",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "cd Client && npm install && npm install --only=dev --no-shrinkwrap && npm run build"
   },
   "author": "",
   "license": "ISC",
@@ -24,5 +24,13 @@
   "devDependencies": {
     "concurrently": "^4.1.0",
     "nodemon": "^1.19.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theeachtra/TeacherHub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theeachtra/TeacherHub/issues"
+  },
+  "homepage": "https://github.com/theeachtra/TeacherHub#readme"
 }
